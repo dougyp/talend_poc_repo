@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_XkbdkXPvEeeCBYPxJ3IAAQ" label="POCGit" description="" language="java" technicalLabel="POCGIT" creationDate="2017-07-28T15:18:01.795-0700" author="_XkbdknPvEeeCBYPxJ3IAAQ" productVersion="Talend Data Integration-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/dougyp/talend_poc_repo.git&quot;,&quot;login&quot;:&quot;dougyp&quot;,&quot;passwd&quot;:&quot;vT8Bqzwy2Qck0kkejZCS2A==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false"/>
+  <TalendProperties:User xmi:id="_XkbdknPvEeeCBYPxJ3IAAQ" login="dp@company.com" firstName="Doug" lastName="P" type="DI" additionnalData="{}"/>
+</xmi:XMI>
